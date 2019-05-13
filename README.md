@@ -1,0 +1,2 @@
+#Esimerkkiprojekti
+Tämä on esimerkkiprojektini Gitin itseopiskelumateriaalia varten
