@@ -1,2 +1,2 @@
 #Esimerkkiprojekti
-Tämä on esimerkkiprojektini Gitin itseopiskelumateriaalia varten
+Tässä havainnollistan git merge konfliktia
