@@ -1,2 +1,2 @@
 #Esimerkkiprojekti
-Tässä havainnollistan git merge konfliktia
+Merge konfliktin havainnollistaminen
